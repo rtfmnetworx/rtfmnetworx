@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rtfmnetworx
 
-- 📫 How to reach me at info@rtfmnetworx.org
+- 📫 You can reach me at info@rtfmnetworx.org
 
 <!---
 rtfmnetworx/rtfmnetworx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
